@@ -1,0 +1,125 @@
+.jumbotron
+{
+    background-color: transparent !important;
+}
+.img
+{
+    margin-left: 150px !important;
+}
+#a
+{
+    color: #af0e0e !important;
+    font-size: 40px !important;
+    text-align: center !important;
+    margin-top: -100px !important;
+    
+    font-family: Antonio !important;
+}
+#b
+{
+    color: black!important;
+    font-size: 33px !important;
+    text-align: center !important;
+    margin-top: -30px !important;
+    font-family: Montserrat !important;
+}
+.b1
+{
+    color: black!important;
+    font-size: 21px !important;
+    text-align: center !important;
+    margin-top: -30px !important;
+    font-family: Montserrat !important;
+}
+#why
+
+{
+    color: #af0e0e !important;
+    font-size: 40px !important;
+    text-align: left!important;
+    margin-top: 50px !important;
+    margin-left: -100px !important;
+    font-family: Antonio !important;
+}
+.Muskoka
+{
+    color: black!important;
+    font-size: 21px !important;
+    text-align: center !important;
+    margin-top: -30px !important;
+    font-family: Montserrat !important;
+    text-align: left!important;
+}
+#img
+{
+    margin-top: 65px !important;
+    width: 480px !important;
+}
+#value
+{
+    color: #af0e0e !important;
+    font-size: 40px !important;
+    text-align: center !important;
+    margin-top: 50px !important;
+    font-family: Antonio !important;
+    
+}
+#Brewery
+{
+    color: black!important;
+    font-size: 33px !important;
+    text-align: center !important;
+    margin-top: 15px !important;
+    font-family: Montserrat !important;
+}
+.left
+{
+    color: black!important;
+    font-size: 21px !important;
+    text-align: left!important;
+    margin-top: 70px !important;
+    margin-left: -70px !important;
+    font-family: Montserrat !important;
+}
+.right
+{
+    color: black!important;
+    font-size: 21px !important;
+    text-align: left!important;
+    margin-top: 70px !important;
+    margin-left: 70px !important;
+    font-family: Montserrat !important;
+}
+#gmi
+{
+    margin-top: 65px !important;
+    width: 250px !important;
+    float: left !important;
+/*    height: 10px !important;*/
+}
+#det
+{
+    font-size: 27px !important;
+    font-weight: 900 !important;
+    margin-top: 30px !important;
+    
+}
+.contact
+{
+    color: #af0e0e !important;
+    font-size: 40px !important;
+    text-align: left!important;
+    font-weight: 700 !important;
+    margin-top: 50px !important;
+    font-family: Antonio !important;
+}
+.cont
+{
+    color: black!important;
+    font-size: 26px !important;
+    text-align: left!important;
+    font-weight: 700 !important;
+    margin-top: 15px !important;
+    font-family: Montserrat !important;
+    
+}
